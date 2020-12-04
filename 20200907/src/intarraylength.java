@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class intarraylength {
 
+	
 	public static void main(String[] args) {
 		int[] intarr = new int[5];
 		

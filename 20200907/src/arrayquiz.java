@@ -1,6 +1,7 @@
 
 public class arrayquiz {
 
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
         // 정수형 배열 어레이를 생성하는데 크기는 50개 로 생성 

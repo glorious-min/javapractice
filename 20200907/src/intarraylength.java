@@ -14,6 +14,7 @@ public class intarraylength {
 			intarr[index]=sc.nextInt();
 		}
 		
+		
 		System.out.println("배열의 길이는 "+ intarr.length);
         
 		for(int i =0;i<intarr.length;i++) {

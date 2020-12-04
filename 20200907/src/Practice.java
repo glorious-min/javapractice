@@ -10,6 +10,7 @@ public class Practice {
 		int[] intArr = new int[ length];
 		
 		
+		
 	   for (int i=0; i < intArr.length;i++) {
 		   System.out.println(intArr[i]);
 	   }

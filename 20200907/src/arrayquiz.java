@@ -10,6 +10,7 @@ public class arrayquiz {
 		int a=0;
 		int b =1;
 		
+		
 		    while ( a>=0&&a<50     ) {
 		    	intArr[a]=b;
 		    	

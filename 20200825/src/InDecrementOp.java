@@ -11,7 +11,7 @@ public class InDecrementOp {
 		//new scanner() - "생성자를 실행해서 객체를 생성한다 "
 		
 		Scanner sc = new Scanner(System.in);//스캐너 객체 생성
-		System.out.print("숫자를 입력해 주세요 ");
+		System.out.print("숫자를 입력해 주세요 .");
 		
 	int cnt = sc.nextInt(); // int형의 값을 입력 받겠다
 	//콘솔에 20을 입력후 엔터 (입력끝 표시 ) 를 해 20이 cnt에 대입됨 

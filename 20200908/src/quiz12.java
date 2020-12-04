@@ -10,6 +10,8 @@ public class quiz12 {
 		int a = sc.nextInt();
 
 		
+		
+		
 		int arr[] = new int[a];
 		
 		int sum = 0;

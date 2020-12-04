@@ -2,6 +2,9 @@
 public class quiz {
 
 	public static void main(String[] args) {
+		
+		
+		
 		int [] intarr = new int [10];
 	
 		

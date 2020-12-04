@@ -16,7 +16,6 @@ public class Caltest {
 		// int sum = 반환되는 값 인셈 !!! 
 	    System.out.println("plus메소드실행결과"+sum);
 		
-	    
 	    int result = calculator.minus(num1, num2); // 리턴되어서 리턴된 값이 오른쪽 대신 들어옴 
 	    System.out.println("minus 실행결과 "+result);
 	    //System.out.println(" 실행결과 "+calculator.minus(num1, num2)); 라고 쓸수고 있음 하지만 잘 쓰이지는 않음 

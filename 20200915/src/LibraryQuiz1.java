@@ -1,6 +1,7 @@
 
 public class LibraryQuiz1 {
 
+	
 	public static void main(String[] args) {
 		int day;
 		int reader = 2;

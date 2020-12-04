@@ -1,6 +1,7 @@
 
 public class LibraryQuiz3rightanswerx {
 
+	
 	public static void main(String[] args) {
 
 		int reader = 2; // 사람의 수

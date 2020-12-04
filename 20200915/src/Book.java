@@ -7,6 +7,8 @@ public class Book {// 실제의 책을 자바언어로 구현하기
 	// 이변수는 클래스 안에서 사용이 가능하다
 	int page;
 	int price;
+	
+	
 
 	// 위의 세개가 변수
 	public String getTitle() {

@@ -6,6 +6,7 @@ public class FinalRef {
 		// date = new MyDate(); // 왜 이게 새로운 객체를 대입하는게 되는 거지 ????/?
 		
 		
+		
 
 	}
 

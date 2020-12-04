@@ -2,6 +2,7 @@
 public class FinalVar {
 	final int i = 9 ;
 	
+	
 	public void go() {
 		// final 키워드가 붙은 변수는 선언시에만 초기화가 가능하다 
 		//i = 10;

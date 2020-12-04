@@ -22,6 +22,7 @@ public class quiz5 {
 				 break;
 			 }
 		}
+		
 
 	}
 

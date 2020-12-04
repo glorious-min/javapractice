@@ -21,4 +21,5 @@ public class RandomTest {
 		System.out.println(sarray[num]);
 	}
 
+	
 }

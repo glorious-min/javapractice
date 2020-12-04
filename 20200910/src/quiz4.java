@@ -9,4 +9,5 @@ public class quiz4 {
 		System.out.println(arr[num]);
 	}
 
+	
 }

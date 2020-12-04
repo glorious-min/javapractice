@@ -23,7 +23,6 @@ public class quiz5 {
 			 }
 		}
 		
-
 	}
 
 }

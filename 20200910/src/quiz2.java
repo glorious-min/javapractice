@@ -10,6 +10,7 @@ public class quiz2 {
 			 }
 			System.out.println();
 		
+			
 		}
 	}
 

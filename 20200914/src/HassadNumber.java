@@ -9,7 +9,6 @@ public class HassadNumber {
 	 int sum=0;
 	 int a =X; // 사용자가 입력하는 수를 일단 보호해주어야한다. 이의 나머지와 몫을 구하는 과정에서 값이 변화하기 때문임 !!!
 	
-	 
 	 while (a>0) {
 		sum+=a%10;
 		a/=10;

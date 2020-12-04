@@ -5,7 +5,6 @@ public class hassadnum {
 	public static void main(String[] args) {
 		Scanner sc = new  Scanner(System.in);
 		int sum = 0;
-		
 		System.out.print("하샤드 수를 입력해 주세요 : ");
 		int x = sc.nextInt();
 		int a = x;

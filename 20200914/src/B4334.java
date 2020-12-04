@@ -7,7 +7,6 @@ public class B4334 {
 		int C = sc.nextInt();
 		int N;
 		
-		
 		int i=1;
 		int j=0;
 		int arr[]=new int [C];

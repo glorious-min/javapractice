@@ -9,6 +9,7 @@ public class quiz12 {
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();
 
+		
 		int arr[] = new int[a];
 		
 		int sum = 0;

@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class quiz13 {
 
+	
 	public static void main(String[] args) {
 		System.out.println("학급에 몇명이 있습니까?");
 	Scanner sc = new Scanner(System.in);

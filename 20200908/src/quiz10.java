@@ -10,6 +10,7 @@ public class quiz10 {
 		Scanner sc = new Scanner(System.in);
 		int a=0;
 		int index=0;
+		
 		for (index=0 ; index <10 ;index ++) {
 			
 			System.out.print((index+1)+"번쨰 데이터 ");

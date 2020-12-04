@@ -11,6 +11,7 @@ public class quiz15 {
         	sum+=b;
         }
         
+        
         System.out.println(sum);
         
         	

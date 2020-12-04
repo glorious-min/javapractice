@@ -14,6 +14,7 @@ public class quiz18 {
 		b = a1;
 		a = b1;
 		
+		
 
 		System.out.println(a);
 		System.out.println(b);

@@ -8,6 +8,7 @@ public class quiz13 {
       
     
         
+        
         for (int b = 1;   b<=a  ;   b++   ) {
         	
         	if( a%b==0 ) {

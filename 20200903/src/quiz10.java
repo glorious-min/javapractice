@@ -12,6 +12,7 @@ public class quiz10 {
         	System.out.println(a/100+a%100/10+a%100%10);
         }
 
+        
 	}
 	
 

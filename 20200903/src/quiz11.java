@@ -6,6 +6,7 @@ public class quiz11 {
 		Scanner sc = new Scanner( System.in);
 		   
 		
+		
         int a = sc.nextInt();
         
         if (a>=90&&a<=100    )

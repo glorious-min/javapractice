@@ -19,6 +19,7 @@ public class quiz8 {
         else {
         	
         	
+        	
         	System.out.println("¼ö·á false");
         }
 	}

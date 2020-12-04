@@ -8,6 +8,7 @@ public class quiz21 {
 		int a1;
 		do {
 			
+			
 			a1 = sc.nextInt();
 			
 			if ( a1%3==0    ) {

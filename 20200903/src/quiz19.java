@@ -19,6 +19,7 @@ public class Backjoon1 {
 
 		
 			
+			
 		
 		if ( c<a  ) {
 			a=c;

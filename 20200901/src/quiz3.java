@@ -7,6 +7,7 @@ public class quiz3 {
 		int N = sc.nextInt();
 		
 
+		
 	
 
 			for (int n1 = 1; n1 <= N; n1++) {

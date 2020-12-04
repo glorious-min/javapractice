@@ -5,6 +5,7 @@ public class quiz4 {
 
 		int a;
 		int b = 1;
+		
 
 		for (int a1 = 1; a1 < 10; a1++) {
 

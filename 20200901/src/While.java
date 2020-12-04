@@ -6,10 +6,12 @@ public class While {
 		int num = 1; 
 		
 		
+		
 		while (num <= 100) {
 			System.out.println(num++);
 		}
 
+		
 	}
 
 	

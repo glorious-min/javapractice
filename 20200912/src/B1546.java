@@ -5,7 +5,6 @@ public class B1546 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
-
 		int N = sc.nextInt();
 		double ave;
 		double sum = 0;

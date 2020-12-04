@@ -12,6 +12,7 @@ public class quiz16 {
 					
 					System.out.println(a+","+b);
 				}
+				
 			}
 		}
 

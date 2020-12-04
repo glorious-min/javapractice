@@ -18,6 +18,7 @@ public class Backjoon1 {
 			System.out.println(c);
 
 		
+			
 		
 		if ( c<a  ) {
 			a=c;

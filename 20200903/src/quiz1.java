@@ -14,6 +14,7 @@ public class quiz1 {
 	     System.out.println(  " 정사각형의 넓이는   "+a*a+"제곱 센티 입니다");
 	      
 		
+	     
 		
 		
 

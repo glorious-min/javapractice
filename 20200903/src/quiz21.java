@@ -16,6 +16,7 @@ public class quiz21 {
 			}
 			
 			
+			
 		}while( a1!=0 );
          System.out.println(sum);
 	}

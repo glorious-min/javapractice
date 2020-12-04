@@ -14,6 +14,7 @@ public class quiz20 {
 		case 1 : System.out.println("¥ﬂ∂Ï¿‘¥œ¥Ÿ  ");
 		break;
 		
+		
 		case 2 : System.out.println("∞≥∂Ï¿‘¥œ¥Ÿ  ");
 		break;
 		case 3 : System.out.println("µ≈¡ˆ∂Ï¿‘¥œ¥Ÿ  ");

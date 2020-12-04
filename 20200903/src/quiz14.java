@@ -9,6 +9,7 @@ public class quiz14 {
        int sum = 0;
         if (a<=b) {
         	
+        	
         	for (int a1 =a    ;a1<=b;a1++       ) {
         		
         		sum+=a1;

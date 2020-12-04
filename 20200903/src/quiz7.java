@@ -13,6 +13,7 @@ public class quiz7 {
         System.out.println(c/100+"%");
         
         
+        
 	}
 
 }

@@ -13,5 +13,7 @@ public class quiz2 {
 	        
 	        System.out.println(" 사각형의 넓이 : =  "+a*b);
 	}
+	
 
+	
 }

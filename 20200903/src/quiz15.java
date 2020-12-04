@@ -10,6 +10,7 @@ public class quiz15 {
         for (int b =1 ; sum<5000 ; b++) {
         	sum+=b;
         }
+        
         System.out.println(sum);
         
         	

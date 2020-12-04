@@ -16,6 +16,7 @@ public class quiz17 {
 		if (a < 0) {
 			System.out.println(" 잘못입력하셨습니다");
 		}
+		
 
 		else if (a>=0) {
 			

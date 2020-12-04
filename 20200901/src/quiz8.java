@@ -12,6 +12,7 @@ public class quiz8 {
 		
 		
 		
+		
 		if ( b>a || a <0) {
 			System.out.println("잘못입력하셨습니다");
 		}

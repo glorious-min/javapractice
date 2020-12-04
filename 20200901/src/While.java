@@ -7,6 +7,7 @@ public class While {
 		
 		
 		
+		
 		while (num <= 100) {
 			System.out.println(num++);
 		}

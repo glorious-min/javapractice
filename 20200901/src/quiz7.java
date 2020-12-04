@@ -8,6 +8,7 @@ public class quiz7 {
 	   int b=0 ;
 	    int sum = 0;
 	    
+	    
 		while(a!=-1) {
 			b+=1;
 			System.out.print( b +"번쨰 정수 입력 (-1종료) :"  );

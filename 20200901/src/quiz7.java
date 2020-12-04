@@ -16,7 +16,8 @@ public class quiz7 {
 			 
 			
 		}
-                System.out.print("현재까지 입력된 정수의 합 :" + sum+1);
+      
+		System.out.print("현재까지 입력된 정수의 합 :" + sum+1);
 	}
 
 }

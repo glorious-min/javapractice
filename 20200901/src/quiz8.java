@@ -19,6 +19,7 @@ public class quiz8 {
 		while( a>c ) { 
 			// 왜 c를 0으로 정의하면 답이 1을 제외한 수로 더해져서 나올까 ?
 			c++;
+		
 			if (c%b!=0 ) {
 				sum  += c;
 				//System.out.println(c);

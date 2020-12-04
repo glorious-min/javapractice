@@ -10,4 +10,5 @@ public class DoWhile {
 		} while (num <= 100);
 	}
 
+	
 }

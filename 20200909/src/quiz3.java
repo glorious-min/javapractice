@@ -10,6 +10,7 @@ public class quiz3 {
 				
 				System.out.println(arr[index]);
 			}
+			
 		}
 
 	}

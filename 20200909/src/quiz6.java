@@ -16,4 +16,5 @@ public class quiz6 {
 		System.out.println((double)ave);
 	}
 
+	
 }

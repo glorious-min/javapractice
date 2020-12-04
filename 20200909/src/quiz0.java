@@ -6,6 +6,7 @@ public class quiz0 {
 		//정수 5개를 입력 받아서 가장 큰 숫자를 출력하는 코드를 작성 
 		//배열,반복문,조건문,변수도 활용 
 		
+		
 		Scanner sc = new Scanner(System.in);
 		//정수 하나하나 선언이 아닌 배열을 만들어 인덱스에 5개 정수를 넣기 
 		int [] arr = new int[5];

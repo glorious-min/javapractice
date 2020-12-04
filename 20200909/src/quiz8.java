@@ -20,6 +20,7 @@ public class quiz8 {
         	System.out.println(index+1+"번째학생의 점수"+arr[index]);
         }
         }
+        
 	}
 
 }

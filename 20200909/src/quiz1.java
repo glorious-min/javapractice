@@ -6,6 +6,7 @@ public class quiz1 {
 	    
 		System.out.println(arr[3]);
 
+		
 	}
 
 }

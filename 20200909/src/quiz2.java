@@ -8,6 +8,7 @@ public class quiz2 {
 		
 		for (index=0;index<arr.length;index++) {
 			if(arr[index]==2) {
+			
 				System.out.println(index);
 				
 			}

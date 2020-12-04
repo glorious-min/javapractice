@@ -18,5 +18,6 @@ public class quiz5 {
 		System.out.println(max);
 		System.out.println(min);
 	}
+	
 
 }

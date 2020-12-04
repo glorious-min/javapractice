@@ -8,7 +8,6 @@ public class Book {// 실제의 책을 자바언어로 구현하기
 	int page;
 	int price;
 	
-	
 
 	// 위의 세개가 변수
 	public String getTitle() {

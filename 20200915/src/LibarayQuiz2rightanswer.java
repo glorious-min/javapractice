@@ -1,7 +1,6 @@
 
 public class LibarayQuiz2rightanswer {
 
-	
 	public static void main(String[] args) {
 
 
